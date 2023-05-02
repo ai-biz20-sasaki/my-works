@@ -10,7 +10,7 @@
     <h4>
       <!--<font-awesome-icon icon="fa-solid fa-github" />-->
       <font-awesome-icon :icon="['fab', 'github']" />
-      <a href="https://github.com/ai-biz20-sasaki" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/ai-biz20-sasaki?tab=repositories" target="_blank" rel="noopener noreferrer">
         Github
       </a>
     </h4>
