@@ -6,7 +6,7 @@
         Zennダッシュボード
       </a>
     </h4>
-    <p>まとめ記事などに Zenn を使っています</p>
+    <p>Zenn を使ってまとめ記事など書いてます</p>
     <h4>
       <!--<font-awesome-icon icon="fa-solid fa-github" />-->
       <font-awesome-icon :icon="['fab', 'github']" />
@@ -22,6 +22,15 @@
       </a>
     </h4>
     <p>twitter ai biz sasaki</p>
+    <h4>
+      <font-awesome-icon :icon="['fab', 'youtube']" />
+      <a href="https://www.youtube.com/@aibizsasaki/featured " target="_blank" rel="noopener noreferrer">
+        youtube
+      </a>
+    </h4>
+    <p>youtube ai biz sasaki</p>
+
+       
   </div>
 </template>
 
