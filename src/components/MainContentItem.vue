@@ -1,6 +1,6 @@
 <template>
   <div v-for="item in myworkItems" :key="item.id">
-    <div class="card">
+    <div class="card mb-3">
       <div class="card-body">
         <h4 class="card-title">
           <a :href="item.link" class="card-link" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>

@@ -3,7 +3,7 @@
     <div class="container">
       <HeaderMain />
       <dev class="row">
-        <dev class="col-6">
+        <dev class="col-sm">
           <MainContent />
         </dev>
         <dev class="col">

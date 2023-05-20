@@ -1,10 +1,7 @@
 <template>
   <div class="about">
-    <div class="container">
-      <HeaderMain />
-      <MyProfile />
-      <MySkill />
-    </div>
+    <MyProfile />
+    <MySkill />
     <GetInTouch />
   </div>
 </template>
@@ -13,7 +10,7 @@
 // @ is an alias to /src
 import MyProfile from '@/components/MyProfile.vue'
 import MySkill from '@/components/MySkill.vue'
-import HeaderMain from '@/components/HeaderMain.vue'
+//import HeaderMain from '@/components/HeaderMain.vue'
 import GetInTouch from '@/components/GetInTouch.vue'
 
 export default {
@@ -21,7 +18,7 @@ export default {
   components: {
     MyProfile,
     MySkill,
-    HeaderMain,
+    //HeaderMain,
     GetInTouch
   }
 }
